@@ -22,3 +22,7 @@ Is a display protocol. It defines how messages are exchanged between with a clie
 
 I won't go into real details about Wayland, just know that wayland is a new generation, a modern protocol made to replace X-window, but though it's still too young to do its job and would probably take a bit more time to do it.
 
+#### Opengl
+
+Is an API to render 2d and 3d vector graphics. The API is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering.
+
