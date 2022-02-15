@@ -10,5 +10,7 @@ Table of contents:
 * Unix
 * Kernel Hacking
 * Computer Graphic
-  * FDF
-    * Introduction to minilibx
+  * [Introduction to X](cg/introduction-to-x.md)
+  * [Minilibx](cg/minilibx/)
+    * [What minilibx is?](cg/minilibx/what-minilibx-is.md)
+    * [Installation](cg/minilibx/installation.md)
