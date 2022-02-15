@@ -8,4 +8,4 @@
 
 ***
 
-* [Opengl](opengl.md)
+* [Minilibx](minilibx.md)
