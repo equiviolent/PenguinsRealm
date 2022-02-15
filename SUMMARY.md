@@ -6,7 +6,8 @@
 
 * [Introduction to X](cg/introduction-to-x.md)
 
-## Group 1
+## graphic programming with mlx
 
-* [Minilibx](group-1/minilibx/README.md)
-  * [What minilibx is?](group-1/minilibx/what-minilibx-is.md)
+* [Minilibx](graphic-programming-with-mlx/minilibx/README.md)
+  * [What minilibx is?](graphic-programming-with-mlx/minilibx/what-minilibx-is.md)
+  * [Installation](graphic-programming-with-mlx/minilibx/installation.md)
